@@ -448,3 +448,5 @@ while running:
 
 
 
+def proverka():
+    print("GGGGOOOOOOODDDD")
